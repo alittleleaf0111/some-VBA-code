@@ -1,0 +1,4 @@
+Sub updatescreen()
+    Application.ScreenUpdating = False
+    Application.ScreenUpdating = True
+End Sub
