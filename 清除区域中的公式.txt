@@ -1,0 +1,3 @@
+Sub clearcontents()
+    Cells.clearcontents
+End Sub
